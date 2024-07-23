@@ -1,5 +1,9 @@
-$bgColor: rgb(192, 130, 130);
+@use 'hero';
 
-body {
-    background-color: $bgColor;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
 }
+
